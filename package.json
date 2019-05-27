@@ -1,0 +1,18 @@
+{
+  "name": "myers-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio site for Dustin Myers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch assets/sass -o assets/css"
+  },
+  "author": "Dustin Myers",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.8.2"
+  }
+}
